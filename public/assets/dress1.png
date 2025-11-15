@@ -1,1 +1,2 @@
-
+import dress1 from '/assets/dress1.png';
+<img src={dress1} />
